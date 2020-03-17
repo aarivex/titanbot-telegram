@@ -1,7 +1,8 @@
 # <img src="https://simpleicons.org/icons/telegram.svg" height="30px" width="30px"> &nbsp;TiTAN
 
-
 The telegram bot you dream of the whole time.
+
+[German version](https://github.com/aarivex/titanbot-telegram/blob/master/README_German.md)
 
 ![Status](https://img.shields.io/badge/status-offline-red)
 ![Commands](https://img.shields.io/badge/commands-69-red)
@@ -9,7 +10,7 @@ The telegram bot you dream of the whole time.
 ![Uptime](https://img.shields.io/badge/uptime-0%20minutes-yellow)
 
 # :jack_o_lantern: Introduction
-TiTAN is a bot designed to provide you with not only entertaining and funny, but also helpful commands that ease up a lot of stuff, from downloading youtube videos directly onto your phone and quickly getting the lyrics to a song you're currently blasting to having reddit media and memes delivered right to your favorite group chat without the hassle of sharing links.
+TiTAN is a bot designed to provide you with not only entertaining and funny, but also helpful commands that ease up a lot of stuff. From downloading youtube videos directly onto your phone to having reddit media and memes delivered right to your favorite group chat without the hassle of sharing links, TiTAN has got you covered.
 
 The bot is private, meaning its only available for whitelisted users. It'll most likely be available for a subscription soon, but the bot is in a early testing stage currently.
 
