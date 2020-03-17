@@ -4,8 +4,8 @@ Der Telegram Bot, von dem du die ganze Zeit geträumt hast.
 
 ![Status](https://img.shields.io/badge/status-offline-red)
 ![Commands](https://img.shields.io/badge/commands-69-red)
-![Letzters Update](https://img.shields.io/badge/latest%20update-2%20hours%20ago-green)
-![Uptime](https://img.shields.io/badge/uptime-0%20minutes-yellow)
+![Letztes Update](https://img.shields.io/badge/letztes%20update-vor%202%20stunden-green)
+![Uptime](https://img.shields.io/badge/uptime-0%20minuten-yellow)
 
 # :jack_o_lantern: Einführung
 TiTAN ist ein Bot, der dafür entworfen wurde, neben unterhaltenden und lustigen Befehlen hilfreiche Features zu bieten, die vieles vereinfachen, vom Download von YouTube Videos direkt aufs Handy bishin zum schnellen Teilen von Medien und Memes in der Lieblingsgruppe ohne das lästige Teilen von Links.
