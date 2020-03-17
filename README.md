@@ -2,12 +2,12 @@
 
 The telegram bot you dream of the whole time.
 
-[German version](https://github.com/aarivex/titanbot-telegram/blob/master/README_German.md)
-
 ![Status](https://img.shields.io/badge/status-offline-red)
 ![Commands](https://img.shields.io/badge/commands-69-red)
 ![Latest update](https://img.shields.io/badge/latest%20update-2%20hours%20ago-green)
 ![Uptime](https://img.shields.io/badge/uptime-0%20minutes-yellow)
+
+[German version](https://github.com/aarivex/titanbot-telegram/blob/master/README_German.md)
 
 # :jack_o_lantern: Introduction
 TiTAN is a bot designed to provide you with not only entertaining and funny, but also helpful commands that ease up a lot of stuff. From downloading youtube videos directly onto your phone to having reddit media and memes delivered right to your favorite group chat without the hassle of sharing links, TiTAN has got you covered.
