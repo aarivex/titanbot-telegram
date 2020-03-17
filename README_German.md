@@ -2,6 +2,7 @@
 
 Der Telegram Bot, von dem du die ganze Zeit geträumt hast.
 
+![Telegram](https://img.shields.io/badge/telegram-@therealtitanbot-blue)
 ![Status](https://img.shields.io/badge/status-offline-red)
 ![Commands](https://img.shields.io/badge/commands-69-red)
 ![Letztes Update](https://img.shields.io/badge/letztes%20update-vor%202%20stunden-green)
