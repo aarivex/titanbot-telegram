@@ -4,7 +4,7 @@ The telegram bot you dream of the whole time.
 
 ![Telegram](https://img.shields.io/badge/telegram-@therealtitanbot-blue)
 ![Status](https://img.shields.io/badge/status-offline-red)
-![Commands](https://img.shields.io/badge/commands-69-red)
+![Commands](https://img.shields.io/badge/commands-WiP-red)
 ![Latest update](https://img.shields.io/badge/latest%20update-2%20hours%20ago-green)
 ![Uptime](https://img.shields.io/badge/uptime-0%20minutes-yellow)
 
