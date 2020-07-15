@@ -31,7 +31,7 @@ The bot is written in the beautiful C# language and built, ran and maintained on
 | /about | About this bot. | /about |
 | /test | A pretty neat test command. :D | /test |
 | /youtube **^** | Download or search youtube videos. The video is downloaded and sent directly as media. | /youtube ``<link>`` **\|** ``<search>`` (``<number>``) |
-| /lyrics **!** | Get the lyrics for a song. | /lyrics ``<song title>`` |
+| /lyrics **^** | Get the lyrics for a song. | /lyrics ``<song title>`` |
 | /reddit **!** | Random reddit post from a specified or random subreddit. | /reddit (``<subreddit>``) (``<media type (image\|video\|gif)>``) |
 | /weather **!** | Get weather info for a city. Default country is Germany. | /weather ``<postal code\|city>`` (``<country code>``) |
 | /motivation **!** | Get motivational images from /r/GetMotivated. | /motivation |
